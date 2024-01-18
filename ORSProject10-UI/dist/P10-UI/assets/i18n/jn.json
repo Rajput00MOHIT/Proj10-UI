@@ -1,0 +1,23 @@
+{
+"User List":"Liste des utilisateurs",
+"French":"Française",
+"Hi,Guest" :"« Salut, Invitée",
+"Hindi" : "Non",
+"User" : "Utilisatrice",
+"Add User" : "Ajouter un utilisateur",
+"Edit" : "éditer",
+  "Delete" : "supprimer",
+  "S.No":"S.No",
+  "Image" : "Image",
+  "First Name" : "Prénom",
+  "Last Name" : "Nom",
+  "Status" : "Statut",
+  "Phone" : "Téléphone",
+  "DOB" : "Date de naissance",
+  "Previous" : "Précédente",
+  "Search" : "Rechercher",
+  "Next" : "Prochaine",
+  "Search First Name" : "Rechercher le prénom",
+  "Search Last Name"  : "Rechercher le nom de famille",
+  "Search Login Id" : "ID de connexion de recherche"
+}
